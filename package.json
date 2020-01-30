@@ -1,0 +1,21 @@
+{
+  "name": "contentful-csv-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contentful-csv-import.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhilippSchweizer/contentful-csv-import.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^5.12.0",
+    "d3": "^5.15.0",
+    "fs": "0.0.1-security"
+  }
+}
